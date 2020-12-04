@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_the_recipe": "2020-12-04 00:56:32 -0200"
@@ -164,6 +170,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-12-04 00:57:17 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
     },
     "done": true
   },
@@ -293,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-12-04 01:20:58 -0200"
@@ -307,8 +325,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2020-12-04 16:46:47 -0200",
       "bread": "2020-12-04 00:56:38 -0200",
-      "mushroom_stew": "2020-12-04 02:12:33 -0200"
+      "mushroom_stew": "2020-12-04 02:12:33 -0200",
+      "cooked_salmon": "2020-12-04 16:37:35 -0200"
     },
     "done": false
   },
@@ -438,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-04 01:20:33 -0200"
@@ -501,6 +527,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-12-04 02:38:35 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
     },
     "done": true
   },
@@ -621,6 +653,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-12-04 00:54:11 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
     },
     "done": true
   },
@@ -946,6 +984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2020-12-04 02:21:35 -0200"
@@ -985,6 +1029,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2020-12-04 02:40:39 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
     },
     "done": true
   },
@@ -1072,9 +1122,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-12-04 16:43:10 -0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-04 01:25:24 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
     },
     "done": true
   },
@@ -1150,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-12-04 01:20:58 -0200"
@@ -1159,6 +1227,18 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-12-04 02:04:04 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-12-04 16:37:22 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
     },
     "done": true
   },
@@ -1195,6 +1275,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-04 01:20:33 -0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2020-12-04 16:46:41 -0200"
     },
     "done": true
   },
@@ -1312,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2020-12-04 01:24:44 -0200"
@@ -1372,6 +1464,7 @@
       "minecraft:mountains": "2020-12-04 00:58:46 -0200",
       "minecraft:taiga": "2020-12-04 02:46:33 -0200",
       "minecraft:taiga_hills": "2020-12-04 02:47:39 -0200",
+      "minecraft:birch_forest": "2020-12-04 16:35:44 -0200",
       "minecraft:deep_lukewarm_ocean": "2020-12-04 02:44:53 -0200",
       "minecraft:beach": "2020-12-04 01:02:46 -0200",
       "minecraft:dark_forest": "2020-12-04 00:59:20 -0200",
@@ -1469,15 +1562,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2020-12-04 02:39:00 -0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2020-12-04 02:22:56 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-12-04 02:39:00 -0200"
     },
     "done": true
   },
@@ -1550,6 +1643,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2020-12-04 02:32:27 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-04 16:37:22 -0200"
     },
     "done": true
   },
