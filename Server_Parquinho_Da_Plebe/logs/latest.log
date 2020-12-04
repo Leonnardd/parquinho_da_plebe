@@ -1,0 +1,50 @@
+[00:09:55] [Server thread/INFO]: borinhobirl has made the advancement [Best Friends Forever]
+[00:10:28] [Server thread/INFO]: Leonnard has made the advancement [Into Fire]
+[00:12:04] [Server thread/INFO]: borinhobirl has made the advancement [Sweet Dreams]
+[00:14:10] [Server thread/INFO]: borinhobirl has made the advancement [Local Brewery]
+[00:25:07] [Server thread/INFO]: Leonnard has made the advancement [Monster Hunter]
+[00:28:05] [Server thread/INFO]: Leonnard has made the advancement [Fishy Business]
+[00:34:28] [Server thread/INFO]: borinhobirl has made the advancement [A Seedy Place]
+[00:34:59] [Server thread/INFO]: borinhobirl has made the advancement [Diamonds!]
+[00:41:22] [Server thread/INFO]: Leonnard has made the advancement [Best Friends Forever]
+[00:53:28] [User Authenticator #4/INFO]: UUID of player NoninoBR is 56860d87-e432-32c9-bcd9-b3823a826ad4
+[00:53:28] [Server thread/INFO]: NoninoBR[/25.7.78.123:54820] logged in with entity id 23014 at ([world]-128.5, 71.0, -196.5)
+[00:54:02] [Async Chat Thread - #1/INFO]: <Leonnard> -1722 -416[m
+[00:55:08] [Server thread/INFO]: NoninoBR has made the advancement [Suit Up]
+[00:56:01] [Server thread/INFO]: NoninoBR has made the advancement [Monster Hunter]
+[00:57:09] [Server thread/INFO]: Villager EntityVillager['Villager'/286, l='ServerLevel[world]', x=-256.53, y=69.94, z=-410.37] died, message: 'Villager was slain by Zombie'
+[00:57:23] [Server thread/INFO]: NoninoBR has made the advancement [Sweet Dreams]
+[00:57:26] [Async Chat Thread - #2/INFO]: <NoninoBR> zzzzzzzzzzzzzzzzzz[m
+[00:57:27] [Async Chat Thread - #2/INFO]: <borinhobirl> zzzzzzzzzzzzz[m
+[00:58:24] [Server thread/INFO]: Leonnard was slain by Enderman
+[01:00:13] [Server thread/INFO]: borinhobirl fell from a high place
+[01:00:16] [Async Chat Thread - #3/INFO]: <NoninoBR> F[m
+[01:02:34] [Server thread/INFO]: Leonnard has made the advancement [Getting an Upgrade]
+[01:08:55] [Server thread/INFO]: borinhobirl has made the advancement [Ice Bucket Challenge]
+[01:20:53] [Server thread/INFO]: Leonnard has made the advancement [Acquire Hardware]
+[01:20:58] [Server thread/INFO]: NoninoBR has made the advancement [Acquire Hardware]
+[01:24:04] [Server thread/INFO]: NoninoBR has made the advancement [Stone Age]
+[01:25:01] [Server thread/INFO]: NoninoBR has made the advancement [Diamonds!]
+[01:29:26] [Server thread/INFO]: borinhobirl has made the advancement [Those Were the Days]
+[01:43:03] [Server thread/INFO]: borinhobirl lost connection: Disconnected
+[01:43:03] [Server thread/INFO]: borinhobirl left the game
+[01:43:04] [Server thread/INFO]: NoninoBR lost connection: Disconnected
+[01:43:04] [Server thread/INFO]: NoninoBR left the game
+[01:43:06] [Server thread/INFO]: Leonnard lost connection: Disconnected
+[01:43:06] [Server thread/INFO]: Leonnard left the game
+[01:43:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[01:43:15] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[01:43:37] [Server thread/INFO]: Stopping the server
+[01:43:37] [Server thread/INFO]: Stopping server
+[01:43:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.8.5
+[01:43:37] [Server thread/INFO]: Saving players
+[01:43:37] [Server thread/INFO]: Saving worlds
+[01:43:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:43:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:43:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:43:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
